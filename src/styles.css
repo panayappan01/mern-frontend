@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+@media screen and (min-width: 600px) {
+  footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+} */
